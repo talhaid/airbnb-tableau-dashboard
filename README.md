@@ -1,5 +1,10 @@
 # Airbnb Tableau Dashboard
 
+## 📊 Dashboard
+
+![Airbnb Dashboard](./airbnb-dashboard.png)
+
+
 ## 🏠 Project Overview
 An interactive dashboard built using Tableau to visualize Airbnb listings data. The goal is to uncover insights about location-based pricing, availability, and review scores.
 
